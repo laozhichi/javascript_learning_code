@@ -1,0 +1,2 @@
+# javascript_learning_code
+前端小白入门javascript知识点汇总
